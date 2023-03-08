@@ -1,0 +1,1 @@
+export { Eat } from "./Eat";
